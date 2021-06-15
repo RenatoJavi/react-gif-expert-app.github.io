@@ -6,7 +6,7 @@ export const AddCategory  = ({setCategories}) => {
 
 
 
-const [inputValue, setInputValue] = useState("Hola soy programador");
+const [inputValue, setInputValue] = useState("Hello you are wellecome to my page");
 const handletInputChange=(e)=>{
     
 setInputValue(e.target.value);
