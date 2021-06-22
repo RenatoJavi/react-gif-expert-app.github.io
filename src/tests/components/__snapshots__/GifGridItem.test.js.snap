@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GitGridItem/> should de mostrar el texto correctamente  1`] = `
+<div
+  className="card animate__animated animate__rubberBand animate__delay-4s "
+>
+  <img
+    alt="Un titulo"
+    src="http://localhost/algo.jpg"
+  />
+  <p>
+    Un titulo
+  </p>
+</div>
+`;
